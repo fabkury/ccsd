@@ -12,7 +12,7 @@ Please feel free to contact us about this project!
 Reading and reusing source code can become so much easier after a quick voice talk with the original authors of the code -- we will be glad to help. Please e-mail Fabrício directly: *fabricio.kury at nih.gov*.  
   
 Best regards,  
-Mallika L. Mundkur  
+Mallika Mundkur  
 Fabrício Kury  
 Ferdinand Dhombres  
 Vojtech Huser  
