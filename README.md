@@ -4,7 +4,7 @@
 ###### \*2 Lister Hill National Center for Biomedical Communications, National Library of Medicine, National Institutes of Health, Bethesda, MD
 ###### _Codename: CCSD_
   
-This repository contains the full source code and full tables of results of the AMIA 2016 Annual Symposium podium abstract. All materials contained in this GitHub repository are under an _Attribution-NonCommercial-ShareAlike 4.0 International_ license. Please see details at http://creativecommons.org/licenses/by-nc-sa/4.0/.  
+This repository contains the source code and full tables of results of the AMIA 2016 Annual Symposium podium abstract. All materials contained in this GitHub repository are under an _Attribution-NonCommercial-ShareAlike 4.0 International_ license. Please see details at http://creativecommons.org/licenses/by-nc-sa/4.0/.  
   
 **_The source code and results contained here span a much broader work than what was submitted for the AMIA 2016 podium abstract. Please contact the authors for orientations about this GitHub repository._**  
 
